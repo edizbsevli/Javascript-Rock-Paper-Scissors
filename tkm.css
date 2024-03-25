@@ -1,0 +1,32 @@
+#fotolar
+{
+    width: fit-content;
+    height: 100px;
+    margin-left: 600px;
+}
+.fotolar img 
+{
+    float: left;
+    margin-left: 40px;
+}
+body{
+    background: #e74c3c;
+    }
+    #liste img{
+    padding:5px;
+    border:1px #232333 solid;
+     
+    }
+    #sonuc{
+    float:left;
+    width: 260px;
+    height: 260px;
+    font-size:2em;
+    padding:20px;
+    background: #f1c40f;
+     
+    }
+    #pc-sonuc{
+    float:left;
+     
+    }
